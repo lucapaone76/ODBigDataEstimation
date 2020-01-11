@@ -1,0 +1,1 @@
+https://api.tomtom.com/traffic/services/4/flowSegmentData/relative/10/json?point=45.013526%2C7.625205&unit=KMPH&openLr=true&key=*****
